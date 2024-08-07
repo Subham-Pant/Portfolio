@@ -1,10 +1,12 @@
 # Data/Business Analyst 
 
 ##TECHNICAL SKILLS AND SOFT SKILLS
-Programming Languages: SQL (MySQL, SQLite), Python (Numpy, Pandas).
+
+Programming Languages: SQL (MySQL, SQLite), Python (Numpy, Pandas)
+
 Data Visualization: MS Excel, Power BI, Tableau
 
-##WORK EXPERIENCE
+WORK EXPERIENCE
 
 NATWEST, Gurugram, India (January 2023 – August 2023)
 Operations Analyst and Customer Service
